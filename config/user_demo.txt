@@ -17,19 +17,6 @@ CCTV-14
 CCTV-15
 CCTV-16
 CCTV-17
-CETV1
-CETV2
-CETV4
-CETV5
-
-💰央视付费频道,#genre#
-文化精品
-风云音乐
-第一剧场
-风云剧场
-电视指南
-世界地理
-兵器科技
 
 📡卫视频道,#genre#
 广东卫视
@@ -67,9 +54,6 @@ CETV5
 新疆卫视
 兵团卫视
 西藏卫视
-CETV1
-CETV2
-CETV4
 
 🌊港·澳·台,#genre#
 翡翠台
