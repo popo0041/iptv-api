@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-06-12 06:12:55,http://qjrhc.jydjd.top:2911/udp/224.1.100.94:11111
+2025-06-12 18:14:26,http://qjrhc.jydjd.top:2911/udp/224.1.100.94:11111
 
 📺央视频道,#genre#
 CCTV-2,http://qjrhc.jydjd.top:2911/udp/224.1.100.94:11111
@@ -7,21 +7,16 @@ CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 CCTV-5,http://omnix.cn:4000/udp/225.1.8.89:8000
 CCTV-7,http://omnix.cn:4000/udp/225.1.8.7:8104
 CCTV-9,http://119.32.12.17:2901/udp/224.1.100.29:11111
-CCTV-11,http://121.17.146.34:50003/hls/11/index.m3u8
-CCTV-11,http://101.66.194.35:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0
-CCTV-12,http://121.17.146.34:50003/hls/12/index.m3u8
 
 📡卫视频道,#genre#
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#mitv://generationnexxxt.com:19806/7bf4b3a65eaf421ab6d71bd8dcc4547a
 湖南卫视,http://119.32.12.17:2901/udp/224.1.100.98:11111
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-湖北卫视,http://www.745612.xyz:7788/rtp/235.254.198.72:1564
 湖北卫视,http://119.32.12.17:2901/udp/224.1.100.68:11111
-安徽卫视,http://113.195.8.230:9901/tsfile/live/0130_2.m3u8?key=txiptv&playlive=0&authid=0
+湖北卫视,http://www.745612.xyz:7788/rtp/235.254.198.72:1564
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
 甘肃卫视,http://satellitepull.cnr.cn/live/wxgsws/playlist.m3u8
-贵州卫视,http://121.17.146.34:50003/hls/51/index.m3u8
-河北卫视,http://121.17.146.34:50003/hls/22/index.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 河南卫视,http://119.32.12.17:2901/udp/224.1.100.74:11111
