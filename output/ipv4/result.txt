@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-06-15 06:11:49,http://qjrhc.jydjd.top:2911/udp/224.1.100.94:11111
+2025-06-15 18:13:00,http://qjrhc.jydjd.top:2911/udp/224.1.100.94:11111
 
 📺央视频道,#genre#
 CCTV-2,http://qjrhc.jydjd.top:2911/udp/224.1.100.94:11111
@@ -10,6 +10,7 @@ CCTV-9,http://119.32.12.17:2901/udp/224.1.100.29:11111
 
 📡卫视频道,#genre#
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#mitv://generationnexxxt.com:19806/7bf4b3a65eaf421ab6d71bd8dcc4547a
 湖南卫视,http://119.32.12.17:2901/udp/224.1.100.98:11111
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 湖北卫视,http://www.745612.xyz:7788/rtp/235.254.198.72:1564
@@ -20,4 +21,6 @@ CCTV-9,http://119.32.12.17:2901/udp/224.1.100.29:11111
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
 四川卫视,http://119.32.12.17:2901/udp/224.1.100.72:11111
+西藏卫视,http://fn.tmde.top:35455/nptv/xizang.m3u8
+云南卫视,http://fn.tmde.top:35455/nptv/yunnan.m3u8
 兵团卫视,http://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
