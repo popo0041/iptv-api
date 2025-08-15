@@ -1,16 +1,27 @@
 🕘️更新时间,#genre#
-2025-08-15 18:14:14,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+2025-08-16 06:13:55,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 
 📺央视频道,#genre#
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+CCTV-5+,http://push-rtmp-hs-spe-f5.douyincdn.com/live/fhtv_cctv5p.flv
+CCTV-7,http://116.128.242.83:9901/tsfile/live/0008_1.m3u8
+CCTV-8,http://183.215.134.239:19901/tsfile/live/0008_1.m3u8
+CCTV-16,http://sh.lnott.top:880/dx16.m3u8
+CETV-1,http://58.17.48.228:808/hls/85/index.m3u8
+CETV-1,http://1b6467f415.iok.la:9931/tsfile/live/1125_1.m3u8
+CETV-2,http://58.17.48.228:808/hls/86/index.m3u8
+CETV-4,http://111.43.126.240:9003/hls/36/index.m3u8
 
 📡卫视频道,#genre#
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
+湖北卫视,http://116.128.242.83:9901/tsfile/live/0121_1.m3u8
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
-河北卫视,http://115.48.160.227:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
+江西卫视,http://125.125.234.156:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
+三沙卫视,http://36.105.100.208:35455/itv/5000000011000288016.m3u8
+云南卫视,http://125.125.234.156:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
 兵团卫视,http://liveout.btzx.com.cn/62ds9e/yil08g.m3u8?mkey=txiptv
