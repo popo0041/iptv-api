@@ -1,14 +1,21 @@
 🕘️更新时间,#genre#
-2025-09-06 18:10:31,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+2025-09-07 06:09:54,http://111.43.126.240:9003/hls/14/index.m3u8
 
 📺央视频道,#genre#
+CCTV-2,http://111.43.126.240:9003/hls/14/index.m3u8
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+CCTV-11,http://111.43.126.240:9003/hls/24/index.m3u8
+CCTV-12,http://111.43.126.240:9003/hls/25/index.m3u8
+CCTV-13,http://111.43.126.240:9003/hls/26/index.m3u8
+CETV-1,http://111.43.126.240:9003/hls/34/index.m3u8
 
 📡卫视频道,#genre#
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
-河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
+广西卫视,http://111.43.126.240:9003/hls/62/index.m3u8
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
+河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
+陕西卫视,http://sh.lnott.top:880/dx51.m3u8
