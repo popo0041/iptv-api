@@ -1,26 +1,14 @@
 🕘️更新时间,#genre#
-2025-10-25 06:11:44,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
+2025-10-25 18:11:14,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 
 📺央视频道,#genre#
 CCTV-4,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
-CCTV-5,http://1.31.14.70:54321/hls/7/index.m3u8
-CCTV-6,http://1.31.14.70:54321/hls/8/index.m3u8
-CCTV-8,http://1.31.14.70:54321/hls/14/index.m3u8
-CCTV-11,http://1.31.14.70:54321/hls/16/index.m3u8
-CCTV-12,http://1.31.14.70:54321/hls/12/index.m3u8
 
 📡卫视频道,#genre#
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
-广东卫视,http://1.31.14.70:54321/hls/28/index.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-湖北卫视,http://1.31.14.70:54321/hls/39/index.m3u8
-重庆卫视,http://1.31.14.70:54321/hls/34/index.m3u8
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
-江苏卫视,http://1.31.14.70:54321/hls/3/index.m3u8
-内蒙古卫视,http://1.31.14.70:54321/hls/55/index.m3u8
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
-山东卫视,http://1.31.14.70:54321/hls/32/index.m3u8
-四川卫视,http://1.31.14.70:54321/hls/41/index.m3u8
