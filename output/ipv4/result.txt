@@ -1,18 +1,7 @@
 🕘️更新时间,#genre#
-2025-12-25 06:13:16,http://175.8.28.207:9999/tsfile/live/0001_1.m3u8
+2025-12-25 18:14:15,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
 
 📺央视频道,#genre#
-CCTV-1,http://175.8.28.207:9999/tsfile/live/0001_1.m3u8
-CCTV-2,http://175.8.28.207:9999/tsfile/live/0002_1.m3u8
-CCTV-3,http://175.8.28.207:9999/tsfile/live/0003_1.m3u8
-CCTV-4,http://175.8.28.207:9999/tsfile/live/0004_1.m3u8
-CCTV-5,http://175.8.28.207:9999/tsfile/live/0005_1.m3u8
-CCTV-6,http://175.8.28.207:9999/tsfile/live/0006_1.m3u8
-CCTV-8,http://175.8.28.207:9999/tsfile/live/0008_1.m3u8
-CCTV-9,http://175.8.28.207:9999/tsfile/live/0009_1.m3u8
-CCTV-10,http://175.8.28.207:9999/tsfile/live/0010_1.m3u8
-CCTV-11,http://175.8.28.207:9999/tsfile/live/0011_1.m3u8
-CCTV-12,http://175.8.28.207:9999/tsfile/live/0012_1.m3u8
 
 📡卫视频道,#genre#
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
