@@ -1,11 +1,10 @@
 🕘️更新时间,#genre#
-2026-02-03 18:30:55,http://23.237.228.134/live5/CCTV2.m3u8
+2026-02-04 06:21:41,http://23.237.228.134/live5/CCTV2.m3u8
 
 📺央视频道,#genre#
 CCTV-2,http://23.237.228.134/live5/CCTV2.m3u8
 CCTV-3,http://23.237.228.134/live5/CCTV3.m3u8
 CCTV-7,http://23.237.228.134/live5/CCTV7.m3u8
-CCTV-10,http://23.237.228.134/live5/CCTV10.m3u8
 CCTV-12,http://23.237.228.134/live3/CCTV12.m3u8
 
 📡卫视频道,#genre#
@@ -13,30 +12,26 @@ CCTV-12,http://23.237.228.134/live3/CCTV12.m3u8
 广东卫视,http://satellitepull.cnr.cn/live/wxgdws/playlist.m3u8
 浙江卫视,http://23.237.228.134/live6/zhejiang.m3u8
 浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
-湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 湖南卫视,http://23.237.228.134/live6/hunan.m3u8
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
+湖南卫视,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 北京卫视,http://23.237.228.134/live3/beijing.m3u8
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 湖北卫视,http://23.237.228.134/live6/hubei.m3u8
-安徽卫视,http://23.237.228.134/live8/anhui.m3u8
 重庆卫视,http://23.237.228.134/live6/chongqing.m3u8
 东方卫视,http://23.237.228.134/live6/dongnan.m3u8
 东南卫视,http://satellitepull.cnr.cn/live/wx32fjws/playlist.m3u8
-广西卫视,http://23.237.228.134/live6/guizhou.m3u8
 广西卫视,http://23.237.228.134/live6/guangxi.m3u8
+广西卫视,http://23.237.228.134/live6/guizhou.m3u8
 贵州卫视,http://23.237.228.134/live6/hainan.m3u8
-河北卫视,http://112.123.243.37:50085/tsfile/live/0018_1.m3u8
-河北卫视,http://23.237.228.134/live8/hebei.m3u8
 河南卫视,http://satellitepull.cnr.cn/live/wxhnws/playlist.m3u8
 吉林卫视,http://satellitepull.cnr.cn/live/wxjlws/playlist.m3u8
 江西卫视,http://23.237.228.134/live8/jiangxi.m3u8
-内蒙古卫视,http://23.237.228.134/live8/neimenggu.m3u8
 青海卫视,http://23.237.228.134/live8/qinghai.m3u8
 山东卫视,http://satellitepull.cnr.cn/live/wxsdws/playlist.m3u8
 山西卫视,http://38.75.136.137:98/gslb/dsdqpub/sxwshd.m3u8?auth=testpub
-陕西卫视,http://23.237.228.134/live6/sichuan.m3u8
 陕西卫视,http://38.75.136.137:98/gslb/dsdqpub/snwshd.m3u8?auth=testpub
+陕西卫视,http://23.237.228.134/live6/sichuan.m3u8
 深圳卫视,http://23.237.228.134/live6/shenzhen.m3u8
 三沙卫视,http://38.75.136.137:98/gslb/dsdqpub/ssws.m3u8?auth=testpub
 天津卫视,http://23.237.228.134/live8/tianjing.m3u8
