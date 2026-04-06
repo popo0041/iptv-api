@@ -1,10 +1,10 @@
 🕘️更新时间,#genre#
-2026-04-06 18:48:16,http://111.56.90.5/000000000000/1000000005000265001/1.m3u8
+2026-04-07 06:26:08,http://111.56.90.5/000000000000/1000000005000265001/1.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://111.56.90.5/000000000000/1000000005000265001/1.m3u8
-CCTV-2,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
 CCTV-2,http://38.75.136.137:98/gslb/dsdqbv/cctv2hd.m3u8?auth=test20251009
+CCTV-2,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
 CCTV-4,http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
 CCTV-4,http://38.75.136.137:98/gslb/dsdqbv/cctv4hd.m3u8?auth=test20251009
 CCTV-5+,http://107.150.60.122/live/cctv5p.m3u8
