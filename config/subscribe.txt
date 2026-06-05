@@ -2,5 +2,6 @@
 # 支持设置UA：https://xxx.com/subscribe.m3u UA="xxx"
 # This is a list of subscription sources, with one subscription address per line
 # Supports setting UA: https://xxx.com/subscribe.m3u UA="xxx"
-https://github.com/mytv-android/China-TV-Live-M3U8/blob/main/iptv.m3u
-https://github.com/cs3306/IPTV-Sources/blob/main/data/output/iptv_collection.m3u
+
+# https://github.com/mytv-android/China-TV-Live-M3U8/blob/main/iptv.m3u
+# https://github.com/cs3306/IPTV-Sources/blob/main/data/output/iptv_collection.m3u
